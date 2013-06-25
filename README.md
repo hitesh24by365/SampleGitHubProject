@@ -2,3 +2,5 @@ SampleGitHubProject
 ===================
 
 SampleGitHubProject
+
+New Changes
